@@ -1,0 +1,44 @@
+body {
+  background-image: url("arbol.jpg");
+  background-color: #CEF6E3;
+}
+ header {
+  font-size: 100px;
+  font-family: Georgia;
+  margin-top: 40px;
+  text-align: center;
+  background-color: #01DF74;
+  height: 120px;
+ }
+section {
+  display: flex;
+}
+
+article {
+  padding: 80px;
+  text-align: center;
+  border: 15px solid #01DF74;
+  width: 50%;
+  margin-top: 60px;
+
+}
+article img {
+  border-radius: 50%;
+  width: 150px;
+}
+
+p {
+  font-family:Georgia;
+  font-size: 20px;
+  margin-top: 35px;
+
+}
+footer {
+  font-size: 35px;
+  background-color: #088A08;
+  font-family:Georgia;
+  margin-top: 50px;
+  margin-bottom: 20px; 
+  height: 40px;
+  text-align: center;
+}
